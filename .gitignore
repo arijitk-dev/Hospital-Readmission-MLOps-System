@@ -1,0 +1,8 @@
+.venv
+project_work/.venv
+*/.venv
+
+*/.ipynb_checkpoints
+
+*/__pycache__
+
